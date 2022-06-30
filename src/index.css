@@ -4,4 +4,10 @@
   text-decoration: none;
   list-style: none;
   box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  background-color: #f1f1f1;
+  color: #202020;
+  font-weight: 300;
 }

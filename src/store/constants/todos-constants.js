@@ -1,0 +1,4 @@
+export const ADD_TODOS = "ADD_TODOS";
+export const REMOVE_TODOS = "REMOVE_TODOS";
+export const TOGGLE_TODOS = "TOGGLE_TODO";
+export const COMPLETE_DELET_TODOS = "COMPLETE_DELET_TODOS";
